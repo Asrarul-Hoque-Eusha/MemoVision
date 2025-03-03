@@ -15,6 +15,7 @@ Conversational Memory Bot is an AI-powered chatbot that helps users interact wit
 ## 🏛️ Folder Structure
 
 30177_memovision/
+
     │── memovision_backend/ 
         │── app/  
             ├── main.py 
@@ -65,7 +66,7 @@ Conversational Memory Bot is an AI-powered chatbot that helps users interact wit
         │── postcss.config.js
         │── tailwind.config.js 
         │── vite.config.js 
-    │ README.md 
+    │── README.md 
 
 
 
