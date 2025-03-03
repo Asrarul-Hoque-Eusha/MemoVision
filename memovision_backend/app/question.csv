@@ -1,0 +1,295 @@
+text,category
+What are your operating hours?,ask_llm
+Good morning,ask_llm
+Good night,ask_llm
+Good evening,ask_llm
+Good noon,ask_llm
+Good afternoon,ask_llm
+"Popup boxes, also known as modal or dialog boxes, are common UI elements used to display additional content or interactions on top of the main page.",ask_llm
+"Creating a popup box in React can be achieved using various approaches, including libraries or custom implementations.",ask_llm
+We will use the Reactjs-popup library to Create Popup Box in React JS.,ask_llm
+Can you help me with my homework?,ask_llm
+What's the weather like today?,ask_llm
+Tell me a joke.,ask_llm
+How do I reset my password?,ask_llm
+What is your favorite movie?,ask_llm
+How can I contact customer support?,ask_llm
+Can you explain quantum physics in simple terms?,ask_llm
+What's the latest news in technology?,ask_llm
+How do I make a cup of coffee?,ask_llm
+What's your opinion on artificial intelligence?,ask_llm
+Do you have any recommendations for books?,ask_llm
+Can you translate this text into Spanish?,ask_llm
+What's the best way to learn Python?,ask_llm
+Tell me a fun fact about space.,ask_llm
+How can I improve my photography skills?,ask_llm
+What's the capital of France?,ask_llm
+How do I cook pasta?,ask_llm
+Can you help me plan a trip to Italy?,ask_llm
+What's the meaning of life?,ask_llm
+How do I start a blog?,ask_llm
+What are some healthy meal ideas?,ask_llm
+Can you recommend a good movie to watch?,ask_llm
+What do you know about blockchain technology?,ask_llm
+How do I troubleshoot my internet connection?,ask_llm
+What's the time in New York?,ask_llm
+Tell me about the history of jazz music.,ask_llm
+How can I boost my productivity?,ask_llm
+What's a fun weekend activity?,ask_llm
+Can you explain the concept of virtual reality?,ask_llm
+How to describe a topic to a child?,ask_llm
+How to play cricket/football?,ask_llm
+How to play with cat?,ask_llm
+How to prepare dinner?,ask_llm
+How to ....?,ask_llm
+What is RAG?,ask_llm
+What is ....?,ask_llm
+Where are /is ...?,ask_llm
+What time it is?,ask_llm
+Hi.,ask_llm
+Hello.,ask_llm
+How are you?,ask_llm
+Can you help me to ....,ask_llm
+Who are you?,ask_llm
+Tell me about yourself.,ask_llm
+Which llm model you are?,ask_llm
+Show me pictures of a cat.,ask_database
+I need images of a dog.,ask_database
+Find images of a sunset over the ocean.,ask_database
+Retrieve images of a boy playing with his pet.,ask_database
+Search for photos featuring a skating boy.,ask_database
+Find images with a mountain landscape.,ask_database
+Give me pictures of red cars.,ask_database
+Show me images of beautiful beaches.,ask_database
+Retrieve photos of city skylines at night.,ask_database
+Find images with a green forest.,ask_database
+I want pictures of snowy mountains.,ask_database
+Search for images with a bustling street market.,ask_database
+Find photos of a desert scene.,ask_database
+Show me images featuring autumn leaves.,ask_database
+I need pictures of a crowded concert.,ask_database
+Retrieve images of a waterfall in nature.,ask_database
+Show me photos of a rainbow after rain.,ask_database
+Find images with a clear blue sky.,ask_database
+I want pictures of a busy urban scene.,ask_database
+Retrieve photos of a serene lake.,ask_database
+Show me images of a colorful butterfly.,ask_database
+Find pictures of a historic castle.,ask_database
+Search for images of a modern art installation.,ask_database
+I need images of vibrant street art.,ask_database
+Show me pictures of a peaceful countryside.,ask_database
+Find images with a classic black and white aesthetic.,ask_database
+Retrieve images of a sporty car.,ask_database
+Show me pictures of a scenic hiking trail.,ask_database
+Find images of a well-lit night market.,ask_database
+I want photos of a charming village.,ask_database
+a baby playing with cat.,ask_database
+A boy is Playing with dog.,ask_database
+women Playing with pet.,ask_database
+girl Playing with bird.,ask_database
+men Playing football.,ask_database
+girls Playing cricket.,ask_database
+a girl is playing with a parrot.,ask_database
+Eating food.,ask_database
+Eating Ice cream.,ask_database
+Eating meat.,ask_database
+Eating meal.,ask_database
+Taking Meal.,ask_database
+Taking dinner.,ask_database
+A girl is dancing.,ask_database
+dancing girl.,ask_database
+swimming boy.,ask_database
+a family is preparing their breakfast.,ask_database
+Taking photo. Taking picture,ask_database
+Surfing in sea.,ask_database
+a man is Surfing in beach,ask_database
+people Walking in beach.,ask_database
+men running in road.,ask_database
+Men and Women Hiking.,ask_database
+Girl and boy Skatting.,ask_database
+an image where people are enjoying their tour.,ask_database
+a picture in which boy and girl are playing with pet.,ask_database
+preparing meal,ask_database
+making breakfast,ask_database
+taking lunch,ask_database
+Selfie,ask_database
+Family Friends,ask_database
+Couple,ask_database
+Parents Siblings,ask_database
+Child Baby,ask_database
+Mother Father Grandparents,ask_database
+Brother Sister,ask_database
+Son Daughter,ask_database
+Uncle Aunt,ask_database
+group of people,ask_database
+Cousin,ask_database
+Group photo,ask_database
+Reunion,ask_database
+Love Wedding,ask_database
+Smile,ask_database
+Engagement,ask_database
+Birthday,ask_database
+Celebration,ask_database
+Anniversary,ask_database
+Portrait,ask_database
+Party Concert Dance,ask_database
+Graduation,ask_database
+Sports,ask_database
+Hiking Running Swimming,ask_database
+Cycling Camping,ask_database
+Yoga Gym Workout,ask_database
+Travel Vacation Picnic,ask_database
+Road trip,ask_database
+Adventure Sightseeing,ask_database
+Shopping Cooking,ask_database
+Eating Drinking,ask_database
+Singing Playing,ask_database
+Studying Reading,ask_database
+Fishing,ask_database
+Beach,ask_database
+Festival,ask_database
+Gathering,ask_database
+Sunset Sunrise,ask_database
+Mountain Forest,ask_database
+River Lake,ask_database
+Waterfall,ask_database
+picture of Ocean,ask_database
+photos of Sky Clouds,ask_database
+Flowers Garden Park,ask_database
+image of Desert,ask_database
+Snow Rain Thunderstorm,ask_database
+Trees Leaves,ask_database
+Grass,ask_database
+Wildlife,ask_database
+Birds Butterflies,ask_database
+Campfire Hiking trail Cliff,ask_database
+Nature walk,ask_database
+Autumn,ask_database
+Car Bike Bus,ask_database
+Train Plane Boat,ask_database
+House Room Bed,ask_database
+Chair Table,ask_database
+Mirror Glasses,ask_database
+Window Door,ask_database
+Television Computer,ask_database
+Laptop Phone,ask_database
+Camera Watch,ask_database
+Books Bag,ask_database
+Shoes,ask_database
+Clothes Hat,ask_database
+Accessories,ask_database
+Wallet Keys,ask_database
+Gift Happy,ask_database
+Sad Angry,ask_database
+Laughing,ask_database
+Crying,ask_database
+Surprised,ask_database
+Excited,ask_database
+Confused,ask_database
+Cute,ask_database
+Romantic,ask_database
+Nervous,ask_database
+Relaxed Cheerful,ask_database
+Funny,ask_database
+Moody,ask_database
+Dog Cat Puppy Kitten,ask_database
+Bird Fish,ask_database
+Rabbit,ask_database
+Horse Cow,ask_database
+Goat Sheep,ask_database
+Chicken,ask_database
+Turtle,ask_database
+Snake,ask_database
+Frog,ask_database
+Monkey,ask_database
+Cat,ask_database
+Dog,ask_database
+Lion,ask_database
+Tiger,ask_database
+Goat,ask_database
+Chicken,ask_database
+Deer,ask_database
+Elephant,ask_database
+Dolphin,ask_database
+Squirrel,ask_database
+Coffee,ask_database
+Tea,ask_database
+Juice,ask_database
+Wine,ask_database
+Beer,ask_database
+Cocktail,ask_database
+Ice cream,ask_database
+Cake,ask_database
+Pizza Burger,ask_database
+Pasta,ask_database
+Salad,ask_database
+Fruits,ask_database
+Vegetables,ask_database
+BBQ,ask_database
+Chocolate,ask_database
+Fast food,ask_database
+Breakfast Lunch,ask_database
+taking Dinner,ask_database
+Selfie,ask_database
+Headphones Earbuds,ask_database
+Keyboard Mouse,ask_database
+Gaming Streaming,ask_database
+Tablet Smartwatch,ask_database
+Drone VR headset,ask_database
+Charger Smartphone,ask_database
+Screenshot,ask_database
+Self-timer,ask_database
+Social media,ask_database
+Zoom call,ask_database
+Online class,ask_database
+Video recording,ask_database
+Podcast,ask_database
+similar images as given image,ask_database
+Find images similar to the given picture.,ask_database
+Find pictures similar to the given image.,ask_database
+Find photos similar to the given photo.,ask_database
+Find some images similar to the given picture.,ask_database
+Search for some photos similar to the given image.,ask_database
+retrive some photos similar to the given photo.,ask_database
+Find people wearing yellow dresses in the given image.,ask_database
+Search for images where people are wearing hats similar to the one in the provided image.,ask_database
+"Find pictures that contain groups of people dressed in formal attire, similar to this photo.",ask_database
+search images with individuals wearing red jackets as seen in the uploaded image.,ask_database
+Search for images containing objects present in the given image.,ask_database
+Find pictures featuring bicycles similar to the one shown in the input photo.,ask_database
+Find pictures featuring bus similar to the one shown in the input picture.,ask_database
+Find pictures featuring cat similar to the one shown in the input image.,ask_database
+Retrieve images containing the same type of car as seen in the given image.,ask_database
+Retrieve images containing the same type of birds and girls as seen in the given photo.,ask_database
+Give images with landscapes resembling the scene in the provided picture.,ask_database
+Give images with beach resembling the scene in the provided image.,ask_database
+Give images with cloudy sky resembling the scene in the provided image.,ask_database
+Find images with a city skyline similar to the one in the given photo.,ask_database
+Search for pictures with a forest or natural scenery similar to the uploaded picture.,ask_database
+Give images similar to the scene in the provided image.,ask_database
+Give images having the same scene in the provided picture.,ask_database
+Can you describe the image I just uploaded?,describe_image
+What does this picture depict?,describe_image
+Please provide a detailed description of this image.,describe_image
+What's going on in this photo?,describe_image
+Can you tell me the story behind this picture?,describe_image
+What objects and people do you see in this image?,describe_image
+Give me a narrative of this picture.,describe_image
+Describe the setting and mood of this image.,describe_image
+What details can you observe in this photograph?,describe_image
+Summarize what you see in this image.,describe_image
+Identify the key elements in this photo.,describe_image
+Explain what is happening in this picture.,describe_image
+What are the notable features of this image?,describe_image
+Could you describe the background and foreground of this picture?,describe_image
+What is the context of this image?,describe_image
+Describe the scene depicted in this image.,describe_image
+What can you tell me about the people in this photo?,describe_image
+What emotions does this image evoke?,describe_image
+Can you analyze this picture for me?,describe_image
+Provide an in-depth description of the image.,describe_image
+What is the primary focus of this image?,describe_image
+List all the elements visible in the uploaded photo.,describe_image
+Can you highlight the details in this picture?,describe_image
+Break down the components of this image for me.,describe_image
+What does the composition of this image suggest?,describe_image
