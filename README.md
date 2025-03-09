@@ -14,7 +14,7 @@ Conversational Memory Bot is an AI-powered chatbot that helps users interact wit
 
 ## 🏛️ Folder Structure
 
-30177_memovision/
+│── 30177_memovision/
 
     │── memovision_backend/ 
         │── app/  
@@ -126,6 +126,25 @@ npm run dev
 ## Deliverables
 
 📜 SRS, WBS
+
 🌐 Web UI (Pages: Homepage, Gallery, Batch Image Uploader, Image Viewer, Chat)
+
 🎤 Presentation (PPT)
+
 💻 Codebase (GitHub Repository)
+
+## Demo
+### Batch Image Uploader Page:
+![uploader](https://github.com/user-attachments/assets/0c43c699-1da2-4a48-8cc6-8d505a50bb58)
+### Gallery Page:
+![gallery](https://github.com/user-attachments/assets/515bd4ca-3c73-45d2-aaca-8d344b109b32)
+### Image Viewer Page:
+![viewer](https://github.com/user-attachments/assets/66da44a9-89d2-4b6c-9b1e-a3f8b136da08)
+
+### Chat Page - Searching Images with Image and Text Query:
+![image search](https://github.com/user-attachments/assets/c5abd451-3d20-4fed-a632-481d2d4656cb)
+![text search](https://github.com/user-attachments/assets/83d864ed-cd92-46be-b50d-700627bffbad)
+#### Complex Conditional Search with Text Query:
+![dogs](https://github.com/user-attachments/assets/7e80b971-511e-4cb0-96b3-09cf5c5c3764)
+![complex text search](https://github.com/user-attachments/assets/75ee266c-a0e6-4b18-a04a-011cb754b227)
+
